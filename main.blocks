@@ -3,16 +3,16 @@
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
+. . . 8 8 8 8 . . . 8 8 8 8 . . 
 . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
+. . . . 8 8 . . 8 . . 8 8 . . . 
+. . . . . . . . 8 . . . . . . . 
+. . . . . . . . 8 . . . . . . . 
+. . . . . . . . 8 . . . . . . . 
+. . . . 8 8 . . . . . . 8 8 . . 
+. . . . . 8 8 . . . . . 8 . . . 
+. . . . . . 8 8 8 8 8 8 8 . . . 
+. . . . . . . . . 8 8 . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 `</field></shadow></value><value name="kind"><shadow type="spritekind" id="bIM*/.Llu3D4s!s${/V$"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block><block type="gamesetbackgroundimage" id="xxU~@}p([YyhXsy-OmEQ" disabled="true" x="70" y="190"><value name="img"><shadow type="background_image_picker" id="(saiU9*R7=U:p(zIC|a{" disabled="true"><field name="img">img`
